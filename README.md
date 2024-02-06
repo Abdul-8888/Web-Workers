@@ -18,4 +18,4 @@ After the successful completion and testin of the app, it was found that web wor
 - [w3schools](https://www.w3schools.com/html/html5_webworkers.asp)
 
 ### Live Demo App
-[Wwather Archive](https://abdul-8888.github.io/Web-Workers)
+[Weather Archive](https://abdul-8888.github.io/Web-Workers)
