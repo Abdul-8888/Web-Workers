@@ -16,3 +16,6 @@ After the successful completion and testin of the app, it was found that web wor
 ### References
 - [web.dev](https://web.dev/articles/workers-basics)
 - [w3schools](https://www.w3schools.com/html/html5_webworkers.asp)
+
+### Live Demo App
+[Wwather Archive](https://abdul-8888.github.io/Web-Workers)
